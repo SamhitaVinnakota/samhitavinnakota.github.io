@@ -598,8 +598,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\factoreal\github\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! D:\factoreal\github\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! D:\factoreal\spa\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\factoreal\spa\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
 
 
 /***/ })
